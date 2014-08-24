@@ -54,7 +54,7 @@ Data were transformed in 5 steps:
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Description of "run_analysis.R" file performs the above mentioned transformations:
+## Description of how "run_analysis.R" file performs the above mentioned transformations:
 
 * Load test and train datasets
 * Load features and activity labels.
