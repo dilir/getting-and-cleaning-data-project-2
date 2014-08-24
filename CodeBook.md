@@ -5,7 +5,7 @@ This is a code book that describes the variables, the data, and any transformati
 ## The data source
 
 * Assignment page: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-* Original dataset: http://archive.ics.uci.edu/ml/machine-learning-databases/00240/
+* Original dataset: http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 * Description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
 ## Data Set Information
